@@ -4,6 +4,7 @@ html {}
 	margin: 0px;
 	padding: 0px;
 }
+
 body {
 	background-color: #ECECEC;
 	font-weight: bold;
@@ -28,27 +29,15 @@ body {
 }
 #red {
 	background-color: #900;
-	width:370px;
-	height:125px;
-	float:left;
 }
 #green {
 	background-color: #090;
-	width:370px;
-	height:125px;
-	float:left;
 }
 #blue {
 	background-color: #00F;
-	width:370px;
-	height:125px;
-	float:left;
 }
 #purple {
 	background-color: #63C;
-	width:370px;
-	height:125px;
-	float:left;
 }
 #footer {
 	background-color: #666;
